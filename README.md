@@ -1,5 +1,5 @@
 # Raytracing
-simple raytracing implementation in python
+Simple raytracing implementation in python
 
 ## Implementation Details
 * Implementation is based on Phong Lighting Model
